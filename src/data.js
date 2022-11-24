@@ -1,4 +1,4 @@
-export default [
+let users = [
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -322,3 +322,5 @@ export default [
         }
       }
   ];
+
+  export default users;
